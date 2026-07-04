@@ -1,2 +1,2 @@
 # Fingerjoint timber fabrication
-<img src="./docs/fj.png"/>
+<img src="./fj.png"/>
